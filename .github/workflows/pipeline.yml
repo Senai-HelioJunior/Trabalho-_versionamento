@@ -1,0 +1,17 @@
+name: CI Pull request 
+
+on: pull_request
+
+jobs:
+  mensagens:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Inicio
+        run: echo "Automação iniciada com sucesso..."
+
+      - name: Meio
+        run: echo "Rodando o processo de automção, Aguarde..."
+
+      - name: Fim
+        run: echo "Automação finalizada com sucesso!"
