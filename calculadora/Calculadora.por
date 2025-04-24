@@ -36,6 +36,7 @@ programa
             {
                 resultado = numero1 / numero2
                 escreva("Resultado da divisão: ", resultado, "\n")
+//Ótimo trabalho, Alfeu e Helio! Visitado por Mateus e Matheus.
             }
         }
     }
